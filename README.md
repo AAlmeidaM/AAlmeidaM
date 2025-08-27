@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AAlmeidaM
-- 👀 I’m interested in applied data analysis, mostly spatial data, in R and Python.
+- 👀 I’m interested in applied data analysis, artificial intelligence and automation.
 - 📫 How to reach me: Linkedin: Alejandro Almeida Márquez ; Researchgate: Alejandro Almeida
 - alejandroalmeida.es
 
